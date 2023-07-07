@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class CarDealer {
+public class Main {
 	public static void main(String[] args) {
 		int carCost;
 		Scanner sc  = new Scanner(System.in);
