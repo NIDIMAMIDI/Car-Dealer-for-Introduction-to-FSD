@@ -2,7 +2,6 @@ import java.util.*;
 import java.io.*;
 public class Main {
 	public static void main(String[] args) {
-		int carCost;
 		Scanner sc  = new Scanner(System.in);
 		System.out.print("Select car model: ");
 		String carName = sc.nextLine();
